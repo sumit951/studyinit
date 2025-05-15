@@ -1,4 +1,4 @@
 # studyinit
 For testing repo
 <br>
-Author : Sumit kumar
+Author : Sumit kumar (Main Author)
